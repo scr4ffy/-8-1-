@@ -1,0 +1,16 @@
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\bin\Debug\net8.0-windows\лаба11(1).exe
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\bin\Debug\net8.0-windows\лаба11(1).deps.json
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\bin\Debug\net8.0-windows\лаба11(1).runtimeconfig.json
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\bin\Debug\net8.0-windows\лаба11(1).dll
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\bin\Debug\net8.0-windows\лаба11(1).pdb
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11_1_.Form1.resources
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11(1).csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11(1).AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11(1).AssemblyInfo.cs
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11(1).csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11(1).dll
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\refint\лаба11(1).dll
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11(1).pdb
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\лаба11(1).genruntimeconfig.cache
+C:\Users\Никита\source\repos\лаба11(1)\лаба11(1)\obj\Debug\net8.0-windows\ref\лаба11(1).dll
