@@ -1,0 +1,14 @@
+C:\Users\Никита\source\repos\Лаба9\Лаба9\bin\Debug\net8.0\Лаба9.exe
+C:\Users\Никита\source\repos\Лаба9\Лаба9\bin\Debug\net8.0\Лаба9.deps.json
+C:\Users\Никита\source\repos\Лаба9\Лаба9\bin\Debug\net8.0\Лаба9.runtimeconfig.json
+C:\Users\Никита\source\repos\Лаба9\Лаба9\bin\Debug\net8.0\Лаба9.dll
+C:\Users\Никита\source\repos\Лаба9\Лаба9\bin\Debug\net8.0\Лаба9.pdb
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\Лаба9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\Лаба9.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\Лаба9.AssemblyInfo.cs
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\Лаба9.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\Лаба9.dll
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\refint\Лаба9.dll
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\Лаба9.pdb
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\Лаба9.genruntimeconfig.cache
+C:\Users\Никита\source\repos\Лаба9\Лаба9\obj\Debug\net8.0\ref\Лаба9.dll
